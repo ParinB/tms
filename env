@@ -1,0 +1,1 @@
+export DSN="user=postgres password=postgres sslmode=disable dbname=tms"
